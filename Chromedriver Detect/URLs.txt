@@ -1,0 +1,5 @@
+Detections URLs:
+
+1) https://nowsecure.nl/
+2) https://antoinevastel.com/bots/
+3) https://bot.sannysoft.com
